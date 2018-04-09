@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  4 12:54:11 2018
-
-@author: hulkofer
-"""
 
 #import requests
 #resp = requests.get('http://www.imdb.com/chart/moviemeter?ref_=nv_mv_mpm_8')
